@@ -11,3 +11,53 @@ Some people don't want to share they are participating in AOC, precisely because
 **Please.** Do us all a favour and don't be that person.
 
 PS: If I were to listen to that, I can tell you I am not a good developer either. Join my club!
+
+# The diary -- by popular petition ;)
+
+## Day 1
+
+- **Challenge type:** Array manipulation, grouping items
+- **Learnings:** Set up environment for the whole AoC
+- [**Detailed log**](day01/README.md)
+
+## Day 2
+
+- **Challenge type:** Control structures, decision making
+- **Learnings:** Use a dictionary instead of tons of if-else
+- [**Detailed log**](day02/README.md)
+
+## Day 3
+
+- **Challenge type:** String comparison
+- **Learnings:** -
+- [**Detailed log**](day03/README.md)
+
+## Day 4
+
+- **Challenge type:** Long conditionals
+- **Learnings:**
+- [**Detailed log**](day04/README.md)
+
+## Day 5
+
+- **Challenge type:** Stack manipulation
+- **Learnings:** Do not waste time in parsing complex inputs 😅😅😅
+- [**Detailed log**](day05/README.md)
+
+## Day 6
+
+- **Challenge type:** String search and manipulation
+- **Learnings:** Always use Set type when looking for repeated items
+- [**Detailed log**](day06/README.md)
+
+## Day 7
+
+- **Challenge type:** ⚠️⚠️ Modelling and working in filesystem
+- **Learnings:** Re-learned tree datatype usage, tree nodes can be not unique
+- [**Detailed log**](day07/README.md)
+
+## Day 8
+
+- **Challenge type:** Bi-dimensional structures
+- **Learnings:** Traversing in 4 directions from a specific point
+- [**Detailed log**](day08/README.md)
