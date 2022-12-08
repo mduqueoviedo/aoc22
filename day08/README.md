@@ -13,3 +13,5 @@ Careful though! My first approach worked with the test input but not with the re
 ## Secomd star
 
 With the right modelling, there's still a bit of a challenge here. We need to keep the order of the "cross" segments and move over them to calculate the "scenic score". Look at the `reverse()` for the up and left parts!
+
+I've gone super verbose in today's challenge, creating different functions and everything, but when the input is so big, better to be sure where the problem is happening exactly!
