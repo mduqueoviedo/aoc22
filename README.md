@@ -61,3 +61,9 @@ PS: If I were to listen to that, I can tell you I am not a good developer either
 - **Challenge type:** Bi-dimensional structures
 - **Learnings:** Traversing in 4 directions from a specific point
 - [**Detailed log**](day08/README.md)
+
+## Day 9
+
+- **Challenge type:** 2-dimensional maps traversing
+- **Learnings:** `Array.fill()` makes copies by reference!
+- [**Detailed log**](day09/README.md)
