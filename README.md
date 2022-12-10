@@ -67,3 +67,9 @@ PS: If I were to listen to that, I can tell you I am not a good developer either
 - **Challenge type:** 2-dimensional maps traversing
 - **Learnings:** `Array.fill()` makes copies by reference!
 - [**Detailed log**](day09/README.md)
+
+## Day 10
+
+- **Challenge type:** Instruction reading
+- **Learnings:** Do not overcomplicate yourself!
+- [**Detailed log**](day10/README.md)
