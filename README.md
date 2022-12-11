@@ -73,3 +73,9 @@ PS: If I were to listen to that, I can tell you I am not a good developer either
 - **Challenge type:** "CPU" instruction reading, screen matrix printing
 - **Learnings:** Do not overcomplicate yourself! (And read read read the challenge)
 - [**Detailed log**](day10/README.md)
+
+## Day 11
+
+- **Challenge type:** 😵‍💫😵‍💫 Infinite growing array manipulation
+- **Learnings:** Find the mathematical way to stop the growth
+- [**Detailed log**](day11/README.md)
